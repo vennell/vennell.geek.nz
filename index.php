@@ -1,1 +1,1 @@
-php include_once(home.html); 
+DirectoryIndex index.html index.php
